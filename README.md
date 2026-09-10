@@ -1,47 +1,23 @@
 # EduSalvador / README.md
 
-```
-: ::::::::::::::::::::::::::::::::::::::::::    EduSalvador@github
-::::::::::::::::::::::.::.:.:::..:::::.:::::    ------------------
-::::::::::::.::.....:....:.........:........    OS: Windows 10 and Linux
-:::::::.....................................    Uptime: 20 anos
-:::::........:*@#%%%%@@@@@@*: ..............    Host: Aplus Engenharia
-::.:..:... %@@#@%***+#%@**@@@@@.............    Kernel: [seu cargo aqui] Developer
-:::..... +@@@@@@@@###**+#%%@@%@@% ..........    
-::::...:@@@@@@%%*+==-:::..-=%@@@@@+.........    Languages.Programming: JavaScript, TypeScript
-::.....=@@%@#+-..             .#@@@:........    Languages.Computer: HTML, CSS
-::......@%#+=:....           ...-@@.........    Languages.Real: Português
-::......#%+==-::........     ....*#.........    
-:::.....+@*===:...       .... ...=#.........    Hobbies.Software: [preencher]
-:::.....-%+=+**#***-.. .:--::....+*:........    Hobbies.Hardware: [preencher]
-::::...+%@*++-=*##-%#. ..+*=::...:..:.......    
-::::...#+++=::....:-+:..   ..  ...=. .......    Contact ------------------
-:::::..=%@==-::...:=-   ...    .............    Email.Personal: [preencher]
-::::::..##++=:...:#%%#+--  ::  ... .........    Instagram: eduardosallvador
-::::::...+*+=-..:=--:......-................    LinkedIn: eduardo-salvador-3611a2244
-::::::::...++-:..@@:      : .  ..:..........    Discord: [preencher]
-::::::::::.:+==...:---:.    ....:...........    
-::::::::::..+*+=::::..       ..=............    GitHub Stats --------------
--::::::::::.=++**=:...     .-*-.............    Repos: 10 | Followers: 1
--::::::::::.-++++*%#+--=+%#=-.  ............    Stars: [ver github-readme-stats]
---:::::::::.:++**+++***=:. .    ............    Commits: [ver github-readme-stats]
----::::::::..+===+++=:.   ..    ............    
------::...:-#+=--:-==--:....   ..::.........    
----:..:#@@*+*+=-:..:--:.....  .... %@+. ....    
--::#@@@@@@@+-+=-:....::....  .... =@@@@@@=..    
-@@@@@@@@@@@@@+-::..........  .. -%@@@@@@@@@@    
-```
+![Eduardo Salvador](./readme_card.png)
 
 <!--
-NOTAS
-=====
-1. "Kernel" (cargo/função) eu deixei como placeholder porque não achei seu
-   cargo específico publicado no perfil — só a empresa (Aplus Engenharia).
-2. Email, Discord e Hobbies não são informações públicas no seu GitHub,
-   então preencha com seus dados reais.
-3. Stars e Commits: o GitHub bloqueia a leitura automática dessa aba pra
-   scrapers. Pra número exato e sempre atualizado automaticamente, use o
-   projeto github-readme-stats (https://github.com/anuraghazra/github-readme-stats)
-   ou substitua manualmente olhando seu perfil.
-4. Apague este bloco de comentários antes de commitar.
+COMO PUBLICAR ESSA VERSÃO (com imagem colorida)
+================================================
+Diferente da versão em texto puro, essa aqui usa uma IMAGEM (readme_card.png),
+então são 2 arquivos que precisam ir pro mesmo repositório:
+
+1. No repositório EduSalvador/EduSalvador (o mesmo de sempre), clique em
+   "Add file" > "Upload files".
+2. Suba os DOIS arquivos juntos: este README.md E o readme_card.png.
+3. Confirme que o README.md faz referência a "./readme_card.png" (esse
+   caminho relativo já está certo se os dois arquivos estiverem na raiz
+   do repositório).
+4. Commit changes.
+5. Acesse github.com/EduSalvador — a imagem deve aparecer no topo do perfil.
+
+SE QUISER AJUSTAR CORES/DADOS DEPOIS:
+Me chame de novo e eu regenero a imagem com os valores ou cores que você
+quiser trocar (é só me dizer o que mudar).
 -->
